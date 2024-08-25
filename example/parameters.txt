@@ -1,0 +1,4 @@
+excelfile	ENTACT.xlsx
+compounds	DTXSID.csv
+cidfile	DSSToxMS.csv
+searchfolder	search/
